@@ -1,4 +1,4 @@
-## Hi there, i'm Valentin G. I work as a Software Engineer 👋
+## Hi there, i'm Valentin G. 👋 <br>I work as a Software Engineer 
 <div align="left">
   <a href="https://www.linkedin.com/in/valguillaume/">
     <img
